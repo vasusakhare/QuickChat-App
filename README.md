@@ -16,6 +16,10 @@ WebSockets are an alternative to HTTP communication in Web Application, they off
 
 ---
 
+## Visit the Website
+
+https://quickchat-app.onrender.com/
+
 ## To run the project
 
 Step 1: Clone the repo
